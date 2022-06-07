@@ -26,19 +26,42 @@
 <br><br>
 
 ### 繳交時間(非常重要) ###
-    陽明交通大學:5/7
-    清華大學:5/8
-    成功大學:5/9
-    台灣大學:5/10
+* 陽明交通大學:5/7
+* 清華大學:5/8
+* 成功大學:5/9
+* 台灣大學:5/10
 <p><span style="font-weight:bold;">其他的大學都是三流大學，</span><span style="font-weight: bold;color: #FF0000;">我死都不會去讀</span>(如果只上成大資我絕對重考)(醫學系另外討論)</p><br>
 
 ### 繳交確認證明 ###
 **5/7 中午**全數確認完畢(謝天謝地一切安好)
-![](https://i.imgur.com/HRN2mkk.png)
-<br>
+![](https://user-images.githubusercontent.com/52309935/172301634-28659e0e-0a14-4c5d-b759-3ad6a3902bbd.png)
+<br><br>
+### 二階面試筆試心得 ###
+改天有空來補個
+<br><br>
+### 成績 ###
+各大學放榜的時間不太一樣，但大概都落在五月底到六月初
+* 成大:5/31
+* 清大:6/1
+* 陽交:6/3
+* 台大:6/6
 
+最後我到底上了哪幾所呢......
+<br><br>
+> 交大
+![](https://i.imgur.com/4O7Yq0N.png)<br>
 
-> **最後再來個老婆的精采表演**
+>成大資工
+![](https://i.imgur.com/n89OJHm.png)<br>
+
+>台大電機
+![](https://i.imgur.com/W0BzGZO.png)<br>
+
+#### 正取台大電機、交大電機、成大資工 ####
+至於清大資工因為跟台大撞期所以沒去二階，成大電機跟交大資工撞期所以也沒去，結果兩所都不錄取QQ<br>
+交大資工其實有達錄取標準，但因為校內分發所以就沒有了
+<br><br>
+### 最後再來個老婆的精采表演 ###
 
 <video src="https://user-images.githubusercontent.com/52309935/166703870-30763144-17b3-4397-aaf2-3f01414712aa.mp4" width=90% controls>my waifu is so cute</video>
 
@@ -46,3 +69,4 @@
     
 <video src="https://user-images.githubusercontent.com/52309935/166704428-99b68819-5e33-48b0-bba4-b38c6b9de88c.mp4" width=90% controls>my waifu is so cute</video>
 
+不要問我學測幾級分 上面有 自己找
