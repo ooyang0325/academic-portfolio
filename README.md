@@ -1,4 +1,4 @@
-# oo_yang的學習歷程(及時備份) #
+# oo_yang的學習歷程 #
 總之先來看張可愛的康娜<br>
 ![](https://i.imgur.com/Si1EpgB.gif)
 
